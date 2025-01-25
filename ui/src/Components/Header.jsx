@@ -60,7 +60,7 @@ const Header = () => {
         </li>
         <li>
           <Link to="/VideoToTxtConverter" className="menu-item">
-            Video to Txt.
+            Video to Txt
           </Link>
         </li>
       </ul>
